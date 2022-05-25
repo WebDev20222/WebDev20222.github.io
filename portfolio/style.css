@@ -1,0 +1,103 @@
+body {
+    border: green 50px ridge; 
+    margin: 0px;
+    background-image: linear-gradient(to top, blue 50%, white);
+}
+
+
+#logo {
+    width: 25%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+#panda {
+
+    width: 25%;
+    margin-top: 100px;
+    float: left;
+    display: block;
+}
+
+h2 {
+    text-indent: 45px;
+    display: block;
+    color: white;
+    margin-top: 150px;
+    margin-right: 15px;
+    font-family: 'Koulen', cursive;
+}
+h1 {
+    padding-top: 50px;
+    margin-left: 10px;
+    color: yellow;
+    font-family: 'Koulen', cursive;
+}
+
+p {
+    color: white;
+    font-family: 'Koulen', cursive;
+}
+
+ul {
+    color: white;
+    font-family: 'Koulen', cursive;
+    color: rgb(203, 240, 253);
+}
+
+table {
+    display: block;
+    overflow: visible;
+    overflow-y: scroll;
+    width: 250px;
+    height: 150px;
+    color: white;
+    text-align: left;
+    margin-left: 50px;
+    font-family: 'Koulen', cursive;
+}
+
+th {
+    color: rgb(203, 240, 253);
+}
+
+td {
+    padding-right: 10px;
+    font-family: 'Koulen', cursive;
+}
+
+#week {
+    margin-top: -100px;
+    font-family: 'Koulen', cursive;
+}
+#summary {
+  
+    text-align: left;
+    font-family: 'Koulen', cursive;
+}
+
+h4 {
+    color: white;
+    float: right;
+    margin-top: -250px;
+    margin-right: 200px;
+    font-family: 'Koulen', cursive;
+   
+
+}
+
+#group {
+    margin-top: -200px;
+    float: right;
+    margin-right: 170px;
+    font-family: 'Koulen', cursive;
+}
+
+span {
+    color: brown;
+    text-decoration: underline;
+    
+}
+
+
